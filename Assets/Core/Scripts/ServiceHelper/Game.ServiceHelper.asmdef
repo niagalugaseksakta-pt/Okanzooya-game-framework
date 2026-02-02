@@ -1,0 +1,17 @@
+{
+    "name": "Game.ServiceHelper",
+    "rootNamespace": "",
+    "references": [
+        "GUID:695e8523b1974374abcd39c1a1db0c95",
+        "GUID:56079ac3c477aa74d849cf1ef8b579af"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
